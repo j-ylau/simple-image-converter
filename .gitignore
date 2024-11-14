@@ -1,0 +1,36 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment folder (if created locally)
+venv/
+env/
+
+# Streamlit-specific folders
+.streamlit/
+
+# Folders for temporary storage of uploaded and converted files
+input/
+output/
+
+# Generated ZIP files
+*.zip
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS-specific files
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Ignore any other IDE specific files (example for VSCode)
+.vscode/
+
+# Ignore all the hidden system files and editor temporary files
+*.swp
+*~
